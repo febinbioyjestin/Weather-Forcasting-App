@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # Initialize OpenWeatherMap API
-owm = pyowm.OWM('950820b57602b8d0582021cb34073791')
+owm = pyowm.OWM(API-KEY)
 mgr = owm.weather_manager()
 
 # Function to plot bar chart
