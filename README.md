@@ -3,6 +3,8 @@
 
 The Weather Forecasting App is a web application built using Streamlit and the OpenWeatherMap API. It allows users to get the 5-day weather forecast for a specific city, visualize the temperature trends using line or bar graphs, and view additional weather updates such as impending rain, cloud coverage, and sunrise/sunset times.
 
+Find it live: [https://weather-forcasting-app.streamlit.app/](https://weather-forcasting-app.streamlit.app/)
+
 ### Features
 
     Input a city name to get the weather forecast
@@ -56,4 +58,4 @@ Hemant Kumar
 
 ### License
 
-This project is licensed under the [Apache License](https://github.com/MrJi421/Weather-Forcasting-App/main/License).
+This project is licensed under the [Apache License](https://github.com/MrJi421/Weather-Forcasting-App/blob/main/LICENSE).
