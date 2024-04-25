@@ -1,0 +1,4 @@
+matplotlib==3.8.4
+pyowm==3.0.0
+pytz==2023.3.post1
+streamlit==1.32.0
